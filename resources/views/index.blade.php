@@ -4,7 +4,7 @@
         Home Slider Start
       *************************************-->
     <div id="tg-homeslider" class="tg-homeslider tg-homeslidervtwo tg-haslayout owl-carousel">
-        <div class="item" data-vide-bg="poster: assets/images/slider/img-03.jpg"
+        <div class="item" data-vide-bg="poster: assets/images/img-03.jpg"
             data-vide-options="position: 0% 50%">
             <div class="container">
                 <div class="row">
@@ -27,7 +27,7 @@
                 </div>
             </div>
         </div>
-        <div class="item" data-vide-bg="poster: assets/images/slider/img-03.jpg"
+        <div class="item" data-vide-bg="poster: assets/images/img-03.jpg"
             data-vide-options="position: 0% 50%">
             <div class="container">
                 <div class="row">
